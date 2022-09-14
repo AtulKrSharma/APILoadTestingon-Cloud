@@ -1,5 +1,5 @@
-# APILoadTestingon-Cloud
-APILoadTestingonCloud
+# APILoadTestingOnCloud
+APILoadTestingOnCloud
 Load Testing with API Testing via SauceLabs
 
 
